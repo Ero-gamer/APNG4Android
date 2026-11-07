@@ -40,7 +40,7 @@ dependencies {
     implementation("com.google.android.material:material:1.14.0")
     implementation("androidx.constraintlayout:constraintlayout:2.2.1")
     implementation("androidx.recyclerview:recyclerview:1.4.0")
-    implementation("com.github.bumptech.glide:glide:5.0.7")
+    implementation("com.github.bumptech.glide:glide:5.0.9")
     ksp("com.github.bumptech.glide:ksp:5.0.9")
     debugImplementation("com.squareup.leakcanary:leakcanary-android:2.14")
 

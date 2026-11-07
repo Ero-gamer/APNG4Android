@@ -29,7 +29,7 @@ if (needReplaceLocal) {
     }
 }
 
-extra["Version"] = "3.0.2"
+extra["Version"] = "3.0.5"
 
 tasks.register("publishFrameAnimation") {
     dependsOn(":frameanimation:publish")

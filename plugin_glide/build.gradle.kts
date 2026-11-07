@@ -29,7 +29,7 @@ android {
 dependencies {
     implementation(fileTree(mapOf("dir" to "libs", "include" to listOf("*.jar"))))
 
-    implementation("com.github.bumptech.glide:glide:5.0.7")
+    implementation("com.github.bumptech.glide:glide:5.0.9")
     annotationProcessor("com.github.bumptech.glide:compiler:5.0.7")
     api(project(":awebp"))
     api(project(":apng"))

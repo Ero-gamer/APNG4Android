@@ -67,5 +67,5 @@ dependencies {
     implementation("androidx.activity:activity-compose:1.13.0")
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.11.0")
     implementation("com.github.bumptech.glide:compose:1.0.0-beta10")
-    implementation("com.github.bumptech.glide:avif-integration:5.0.5")
+    implementation("com.github.bumptech.glide:avif-integration:5.0.9")
 }

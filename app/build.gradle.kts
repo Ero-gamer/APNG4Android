@@ -59,7 +59,7 @@ dependencies {
     implementation("androidx.compose.ui:ui:1.11.4")
     implementation("androidx.compose.ui:ui-tooling:1.11.4")
     implementation("androidx.compose.foundation:foundation:1.11.4")
-    implementation("androidx.compose.material:material:1.11.4")
+    implementation("androidx.compose.material:material:1.12.1")
     implementation("androidx.compose.material:material-icons-core:1.7.8")
     implementation("androidx.compose.material:material-icons-extended:1.7.8")
     implementation("androidx.compose.runtime:runtime-livedata:1.11.4")

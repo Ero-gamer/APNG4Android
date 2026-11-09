@@ -30,7 +30,7 @@ dependencies {
     implementation(fileTree(mapOf("dir" to "libs", "include" to listOf("*.jar"))))
 
     implementation("com.github.bumptech.glide:glide:5.0.7")
-    annotationProcessor("com.github.bumptech.glide:compiler:5.0.7")
+    annotationProcessor("com.github.bumptech.glide:compiler:5.0.9")
     api(project(":awebp"))
     api(project(":apng"))
     api(project(":gif"))
